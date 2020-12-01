@@ -4,4 +4,4 @@
 
 答：应该在dao层对error进行wrap,只在调用的最上层进行打印错误堆栈的日志。
 
-详细查看代码error_test.go
+详细查看代码demo.go
